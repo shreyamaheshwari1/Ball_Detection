@@ -30,8 +30,13 @@ Successfully tracked cricket ball trajectory in live matches.
 Implemented a hybrid approach combining real-time detection with trajectory prediction for accuracy and efficiency.
 Contributed to advancements in sports analytics and tracking technologies.
 
+<b>PATCH MODEL ARCHITECTURE </b>
+
+![Patchmodel_Architecture](https://github.com/shreyamaheshwari1/Ball_Detection/assets/114720478/8f2c0f6e-6125-4f60-9081-895c2d7ac6de)
+
+
 <b>OUTPUT SAMPLE VIDEO LINK:-</b>
-https://github.com/shreyamaheshwari1/Ball_Detection/assets/114720478/b824c4db-dc38-4440-a5e8-b4d4ac2cfae4
+https://drive.google.com/file/d/1hJZLxafsA8TKaXG2kUjsLhm_aKnW1XkH/view?usp=sharing
 
 
 
